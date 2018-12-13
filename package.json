@@ -1,0 +1,27 @@
+{
+  "name": "param_replacer",
+  "version": "1.0.0",
+  "description": "Reemplamo de Parametros",
+  "main": "./lib/param_replacer",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/RBethsy/Proyecto_NPM.git"
+  },
+
+  "devDependencies": {
+    "vows": ">= 0.5.9"
+  },
+  "keywords": [
+    "parmeters",
+    "replacer"
+  ],
+  "author": "Bethsy Rodriguez Fernandez",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/RBethsy/Proyecto_NPM/issues"
+  },
+  "homepage": "https://github.com/RBethsy/Proyecto_NPM#readme"
+}
