@@ -3,6 +3,15 @@
 
 Paquete Reemplazo de Parametros bajo una clave %   %
 
+Resumen
+
+Se utilizo el gestor de paquetes NPM.
+
+Disponible en:
+
+    Paquete de npm.js
+    Repositorio en github
+
 Objetivo:
 
 Se crea un paquete que reemplace parámetros del tipo %clave% con una cadena que nosotros le vamos a proveer. Por ejemplo:
@@ -39,5 +48,6 @@ El paquete cuenta con un parameter_replacer.js para observar el funcionamiento d
 
      La version inicial parameter_replacer@1.0.1, es la version inicial del paquete y mejorando el script aislando los parametros.
 
+    La version parameter_replacer@1.0.2 presenta modificaciones de forma, sin afectar la funcionalidad.
     
    
