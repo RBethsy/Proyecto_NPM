@@ -1,8 +1,8 @@
 {
-  "name": "param_replacer",
+  "name": "parameter_replacer",
   "version": "1.0.0",
   "description": "Reemplamo de Parametros",
-  "main": "./lib/param_replacer",
+  "main": "./lib/parameter_replacer",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
