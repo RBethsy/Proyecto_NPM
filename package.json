@@ -1,6 +1,6 @@
 {
   "name": "parameter_replacer",
-  "version": "1.0.1",
+  "version": "1.0.2",
   "description": "Reemplazo de Parametros",
   "main": "./lib/parameter_replacer",
   "scripts": {
