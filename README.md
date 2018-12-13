@@ -22,12 +22,12 @@ npm install parameter_replacer
 # instalar version beta
 npm install parameter_replacer@1.0.0-beta.1
 
-# instalar version inicial 1.0.1
+# instalar version inicial  1.0.1
 npm install parameter_replacer@1.0.1
 
-Descripcion
+# Descripcion
 
-El paquete cuenta con un param_replacer.js para obervar el funcionamiento del paquete.
+El paquete cuenta con un parameter_replacer.js para observar el funcionamiento del paquete.
 
     La version beta: parameter_replacer@1.0.0-beta.1, reemplaza cualquier cosa encerrada entre % % por un valor unico.
 
@@ -36,6 +36,8 @@ El paquete cuenta con un param_replacer.js para obervar el funcionamiento del pa
      entrada = "%param% World!";
      var salida = entrada.replace(/%(.*?)%/g, reemplazo);
      console.log(salida);
+
+     La version inicial parameter_replacer@1.0.1, es la version inicial del paquete y mejorando el script aislando los parametros.
 
     
    
